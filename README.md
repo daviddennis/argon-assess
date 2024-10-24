@@ -1,7 +1,7 @@
 # Clinical Trials Search Application
 
 ## Overview
-This application allows users to search through clinical trials data. One example is searching for topics related to Non Small Cell Lung Cancer (NSCLC) and immunotherapy treatments.
+This application allows users to search through clinical trials data. One example is searching for topics related to Non Small Cell Lung Cancer (NSCLC) and immunotherapy treatments. The user can further filter by Sponsor, providing a view into the competitive landscape among trial companies.
 
 ## Setup Instructions
 

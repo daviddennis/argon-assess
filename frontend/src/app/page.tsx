@@ -50,8 +50,8 @@ const Home = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 py-8 px-4">
-      <div className="max-w-7xl mx-auto bg-white shadow-md rounded-lg p-6">
+    <div className="min-h-screen bg-gray-100 py-8 px-2.5">
+      <div className="w-full mx-auto bg-white shadow-md rounded-lg p-6">
         <h1 className="text-3xl font-semibold text-center mb-6">Clinical Trials Search</h1>
         <div className="flex flex-col md:flex-row items-center mb-6 space-y-4 md:space-y-0 md:space-x-4">
           <input
