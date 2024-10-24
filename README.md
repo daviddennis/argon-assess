@@ -13,7 +13,7 @@ The frontend is a React app using Tailwind CSS.
 ### Prerequisites
 - Python 3.7+
 - SQLite w/ FTS installed on your system
-- `ctg-studies.csv` file placed in the project directory
+- `ctg-studies.csv` file placed in the `backend` directory
 
 ### Backend Setup
 
@@ -35,7 +35,7 @@ uvicorn main:app --reload
 4. **Run the Frontend**:
 ```
 cd frontend
-npm install -D tailwindcss postcss autoprefixer
+npm install
 npm run dev
 ```
 
